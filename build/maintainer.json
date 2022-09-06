@@ -512,6 +512,9 @@
     "/blockbeats/:channel?": [
         "Fatpandac"
     ],
+    "/bluestacks/release/5": [
+        "TonyRL"
+    ],
     "/bnu/bs/:category?": [
         "nczitzk"
     ],
@@ -747,6 +750,12 @@
     ],
     "/dbmv/:category?": [
         "kba977"
+    ],
+    "/dcard/posts/:type?": [
+        "DIYgod"
+    ],
+    "/dcard/:section/:type?": [
+        "HenryQW"
     ],
     "/ddosi/": [
         "XinRoom"
@@ -1160,6 +1169,18 @@
     "/gamersecret/:type?/:category?": [
         "nczitzk"
     ],
+    "/gamme/news/:category?": [
+        "TonyRL"
+    ],
+    "/gamme/news/tag/:tag": [
+        "TonyRL"
+    ],
+    "/gamme/sexynews/:category?": [
+        "TonyRL"
+    ],
+    "/gamme/sexynews/tag/:tag": [
+        "TonyRL"
+    ],
     "/gaze/update/:mid": [
         "zytomorrow"
     ],
@@ -1349,6 +1370,9 @@
     ],
     "/gov/nmpa/:path+": [
         "TonyRL"
+    ],
+    "/gov/nopss/:path+": [
+        "nczitzk"
     ],
     "/gov/nrta/news/:category?": [
         "yuxinliu-alex"
@@ -2470,6 +2494,9 @@
     "/nltimes/news/:category?": [
         "Hivol"
     ],
+    "/nmbxd1/:id": [
+        "miles170"
+    ],
     "/nodejs/blog/:language?": [
         "nczitzk"
     ],
@@ -2921,6 +2948,9 @@
     "/radio-canada/latest/:language?": [
         "nczitzk"
     ],
+    "/rarehistoricalphotos/": [
+        "TonyRL"
+    ],
     "/remnote/changelog": [
         "TonyRL"
     ],
@@ -3344,6 +3374,9 @@
     ],
     "/thepaper/list/:id": [
         "nczitzk"
+    ],
+    "/thwiki/calendar/:before?/:after?": [
+        "aether17"
     ],
     "/tiktok/user/:user": [
         "TonyRL"
@@ -3873,6 +3906,12 @@
     ],
     "/yunspe/newsflash": [
         "x2009again"
+    ],
+    "/yxdown/news/:category?": [
+        "nczitzk"
+    ],
+    "/yxdown/recommend": [
+        "nczitzk"
     ],
     "/yxdzqb/:type": [
         "LogicJake",
@@ -4474,7 +4513,6 @@
     "/instapaper/person/:name": [],
     "/ui-cn/article": [],
     "/ui-cn/user/:id": [],
-    "/dcard/:section/:type?": [],
     "/bjp/apod": [],
     "/luogu/daily/:id?": [],
     "/luogu/contest": [],
@@ -4957,7 +4995,6 @@
     "/hbut/news/:type": [],
     "/hbut/cs/:type": [],
     "/acwifi": [],
-    "/adnmb/:pid": [],
     "/mittrchina/:type": [],
     "/iyouport/article": [],
     "/iyouport/:category?": [],
@@ -5345,8 +5382,6 @@
     "/shinybbs": [],
     "/tianyancha/hot": [],
     "/kingarthur/:type": [],
-    "/yxdown/recommend": [],
-    "/yxdown/news/:category?": [],
     "/babehub/search/:keyword?": [],
     "/babehub/:category?": [],
     "/sznews/press": [],
