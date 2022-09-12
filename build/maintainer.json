@@ -732,6 +732,15 @@
     "/cts/:category": [
         "miles170"
     ],
+    "/cw/master/:channel": [
+        "TonyRL"
+    ],
+    "/cw/sub/:channel": [
+        "TonyRL"
+    ],
+    "/cw/today": [
+        "TonyRL"
+    ],
     "/dahecube/:type?": [
         "linbuxiao"
     ],
@@ -1578,6 +1587,15 @@
         "hellodword ",
         "TonyRL"
     ],
+    "/hit/hitgs": [
+        "hlmu"
+    ],
+    "/hit/jwc": [
+        "lty96117"
+    ],
+    "/hit/today/:category": [
+        "ranpox"
+    ],
     "/hizu/:column?": [
         "nczitzk"
     ],
@@ -2277,6 +2295,9 @@
     ],
     "/medsci/:sid?/:tid?": [
         "nczitzk"
+    ],
+    "/meituclub/latest": [
+        "ocleo1"
     ],
     "/meteor/boards": [
         "TonyRL"
@@ -4265,8 +4286,6 @@
     "/njtech/jwc": [],
     "/hhu/libNews": [],
     "/hhu/libNewsc": [],
-    "/hit/jwc": [],
-    "/hit/today/:category": [],
     "/hitsz/article/:category?": [],
     "/hitwh/today": [],
     "/shanghaitech/activity": [],
