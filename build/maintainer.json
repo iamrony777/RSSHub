@@ -149,9 +149,6 @@
     "/acfun/user/video/:uid": [
         "wdssmq"
     ],
-    "/acm-ecnu/contest/:category?": [
-        "a180285"
-    ],
     "/acs/journal/:id": [
         "nczitzk"
     ],
@@ -1165,6 +1162,12 @@
     "/eastday/sh": [
         "saury"
     ],
+    "/ecnu/acm/contest/:category?": [
+        "a180285"
+    ],
+    "/ecnu/yjs": [
+        "shengmaosu"
+    ],
     "/economist/download": [
         "nczitzk"
     ],
@@ -1290,6 +1293,10 @@
     ],
     "/foresightnews/news": [
         "nczitzk"
+    ],
+    "/foreverblog/feeds": [
+        "7Wate",
+        "a180285"
     ],
     "/fortunechina/:category?": [
         "nczitzk"
@@ -1507,7 +1514,8 @@
     ],
     "/gov/customs/list/:gchannel?": [
         "Jeason0228",
-        "TonyRL"
+        "TonyRL",
+        "he1q"
     ],
     "/gov/fmprc/:category?": [
         "nicolaszf",
@@ -2379,6 +2387,9 @@
     ],
     "/kyodonews/:language?/:keyword?": [
         "Rongronggg9"
+    ],
+    "/lang/live/room/:id": [
+        "MittWillson"
     ],
     "/lanqiao/author/:uid": [
         "huhuhang"
@@ -4009,6 +4020,9 @@
         "SettingDust",
         "Halcao"
     ],
+    "/usepanda/feeds/:id": [
+        "lyrl"
+    ],
     "/ustb/yjsy/news/adma": [
         "DA1Y1"
     ],
@@ -4097,6 +4111,9 @@
     "/usts/juch/:type?": [
         "Fatpandac"
     ],
+    "/uw/gix/news/:category": [
+        "dykderrick"
+    ],
     "/verfghbw/press/:keyword?": [
         "quinn-dev"
     ],
@@ -4184,6 +4201,28 @@
     ],
     "/wechat/wxnmh/:id": [
         "laampui"
+    ],
+    "/weibo/keyword/:keyword/:routeParams?": [
+        "DIYgod"
+    ],
+    "/weibo/oasis/user/:userid": [
+        "kt286"
+    ],
+    "/weibo/search/hot": [
+        "xyqfer"
+    ],
+    "/weibo/super_index/:id/:type?/:routeParams?": [
+        "zengxs"
+    ],
+    "/weibo/timeline/:uid/:feature?/:routeParams?": [
+        "zytomorrow",
+        "DIYgod ",
+        "Rongronggg9"
+    ],
+    "/weibo/user/:uid/:routeParams?": [
+        "DIYgod",
+        "iplusx",
+        "Rongronggg9"
     ],
     "/wenku8/:category?": [
         "Fatpandac"
@@ -4597,11 +4636,6 @@
     ],
     "/1draw": [],
     "/benedictevans": [],
-    "/weibo/user/:uid/:routeParams?": [],
-    "/weibo/keyword/:keyword/:routeParams?": [],
-    "/weibo/search/hot": [],
-    "/weibo/super_index/:id/:type?/:routeParams?": [],
-    "/weibo/oasis/user/:userid": [],
     "/ncm/playlist/:id": [],
     "/ncm/user/playlist/:uid": [],
     "/ncm/artist/:id": [],
@@ -4635,8 +4669,6 @@
     "/dribbble/user/:name": [],
     "/dribbble/keyword/:keyword": [],
     "/huya/live/:id": [],
-    "/kingkong/room/:id": [],
-    "/langlive/room/:id": [],
     "/showroom/room/:id": [],
     "/v2ex/topics/:type": [],
     "/v2ex/post/:postid": [],
@@ -5261,7 +5293,6 @@
     "/cug/gcxy/:type?": [],
     "/haimaoba/:id?": [],
     "/pgyer/:app?": [],
-    "/weibo/timeline/:uid/:feature?/:routeParams?": [],
     "/watchface/:watch_type?/:list_type?": [],
     "/cnu/selected": [],
     "/cnu/discovery/:type?/:category?": [],
@@ -5438,7 +5469,6 @@
     "/zkyai": [],
     "/zkyyjs": [],
     "/outele": [],
-    "/ecnuyjs": [],
     "/kaoyan": [],
     "/hustyjs": [],
     "/ccnuyjs": [],
